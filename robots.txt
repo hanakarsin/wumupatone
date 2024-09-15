@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cinaweyuzi.pages.dev/sitemap.xml
